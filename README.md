@@ -37,7 +37,7 @@ false, depending on the user's inputs
 
 ### How to run the code
 
-- Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1>
+- Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1> to a local folder
 - Open the folder in the vscode
 - Start the vscode terminal and run the file as either:
   - python3 challenge1.py
