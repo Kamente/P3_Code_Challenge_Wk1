@@ -1,5 +1,6 @@
 from datetime import datetime
 
+#function that performs the conversion, called later when user inputs time value
 def time_conversion(time_str):
     try:
         input_time = datetime.strptime(time_str, "%I:%M %p")
@@ -9,6 +10,6 @@ def time_conversion(time_str):
         return "Invalid time format"
 
 
-input_time_str = input("Enter time (hh:mm AM/PM): ") # user enters time in that format (hour and minute and the time format it is in)
-converted_time_str = time_conversion(input_time_str)
+current_time_str = input("Enter time (hh:mm AM/PM): ") # prompts user for time value input
+converted_time_str = time_conversion(current_time_str)
 print(f"Converted time: {converted_time_str}hrs")
