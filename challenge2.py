@@ -1,4 +1,4 @@
-def pos_nos(a, b, c):
+def positive_nos(a, b, c):
     positive_count = 0 #this is the initial pos count which is declared as 0
     
     # checks if the input number is positive (>0) and then add it to the positive count
@@ -9,12 +9,12 @@ def pos_nos(a, b, c):
     if c > 0:
         positive_count += 1
         
-    return positive_count == 2 #returns tru only for two positive inputs, else returns false
+    return positive_count == 2 #returns true only for two positive inputs, else returns false
 
 try:
     a, b, c = map(int, input("Enter the numbers (a, b, c): ").split(","))
     
-    answer = pos_nos(a, b, c)
+    answer = positive_nos(a, b, c)
     
     print(answer)
     
