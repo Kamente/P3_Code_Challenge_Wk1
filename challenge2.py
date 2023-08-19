@@ -12,11 +12,11 @@ def positive_nos(a, b, c):
     return positive_count == 2 #returns true only for two positive inputs, else returns false
 
 try:
-    a, b, c = map(int, input("Enter the numbers (a, b, c): ").split(","))
+    a, b, c = map(int, input("Enter the numbers (a, b, c): ").split(",")) #prompt user for input numbers which are split by the comma (,)
     
     answer = positive_nos(a, b, c)
     
     print(answer)
     
-except ValueError: #exception to handle any runtime error incurred 
+except ValueError: #exception to handle any runtime error incase incurred 
     print("Invalid input. Please enter three integers separated by commas.")
