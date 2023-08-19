@@ -10,6 +10,6 @@ def time_conversion(time_str):
         return "Invalid time format"
 
 
-current_time_str = input("Enter time (hh:mm AM/PM): ") # prompts user for time value input
+current_time_str = input("Current time (hh:mm AM/PM): ") # prompts user for time value input
 converted_time_str = time_conversion(current_time_str)
-print(f"Converted time: {converted_time_str}hrs")
+print(f"Converted time: {converted_time_str} hrs") # print out the 24hr clock time
