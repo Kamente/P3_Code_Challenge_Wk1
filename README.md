@@ -11,20 +11,20 @@ JUSTIN KAMENTE
 ## 1: Converting 12-hour time to 24-hour time
 
 ```
-Used to a 24-hour clock and having a challenge reading a 12-hour clock?
-Don't worry i got you on this. 
+Used to a 24-hour clock and maybe you are having a challenge reading 
+a 12-hour clock? Don't worry i got you on this. 
 This is a simple python program that converts 12-hour time to 24-hr time. 
-Just input the 12-hour time you want to convert and on running the code you 
-will be provided with the 24- hour time format 
+Just input the 12-hour time you want to convert and on running the 
+code you will be provided with the 24- hour time format 
 
 ```
 
 ## 2: Returning two positive numbers
 
 ```
-This python program takes three integer arguments and returns true if two
-of the numbers are positive (>0), else  it returns false, depending on 
-the user's inputs
+This python program takes three integer arguments and returns 
+true if two of the numbers are positive (>0), else  it returns
+false, depending on the user's inputs
 
 ```
 ## 3: Returning the highest value of consonant strings
