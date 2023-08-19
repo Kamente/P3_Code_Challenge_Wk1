@@ -39,10 +39,11 @@ false, depending on the user's inputs
 
 - Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1> to a local folder
 - Open the folder in the vscode
-- Start the vscode terminal and run the file as either:
+- Start the vscode terminal and run the file as :
   - python3 challenge1.py
   - python3 challenge2.py
-  - python3 challenge3.py
+  - python3 challenge3.py 
+    depending on the file you want to run
 - ensure you have python3 installed to run the files
 - Interact with the code more, have fun
 
