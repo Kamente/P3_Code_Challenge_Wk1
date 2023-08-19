@@ -8,6 +8,7 @@ def time_conversion(time_str):
     except ValueError:
         return "Invalid time format"
 
-input_time_str = input("Enter time (hh:mm AM/PM): ")
+
+input_time_str = input("Enter time (hh:mm AM/PM): ") # user enters time in that format (hour and minute and the time format it is in)
 converted_time_str = time_conversion(input_time_str)
-print(f"Converted time: {converted_time_str}")
+print(f"Converted time: {converted_time_str}hrs")
