@@ -1,5 +1,6 @@
 ## Code Challenge
 
+
 ## Author
 
 ```
@@ -27,6 +28,7 @@ true if two of the numbers are positive (>0), else  it returns
 false, depending on the user's inputs
 
 ```
+
 ## 3: Returning the highest value of consonant strings
 
 ```
@@ -44,7 +46,6 @@ false, depending on the user's inputs
 - ensure you have python3 installed to run the files
 - Interact with the code more, have fun
 
-
 ### Technologies Used
 
 ```
@@ -52,8 +53,6 @@ false, depending on the user's inputs
 - VsCode
 - Github
 ```
-
-
 
 ### License
 
