@@ -8,7 +8,7 @@
 JUSTIN KAMENTE
 
 ```
-## Programs
+## Programs:
 
 ### 1: Converting 12-hour time to 24-hour time
 
