@@ -8,8 +8,9 @@
 JUSTIN KAMENTE
 
 ```
+## Programs
 
-## 1: Converting 12-hour time to 24-hour time
+### 1: Converting 12-hour time to 24-hour time
 
 ```
 Used to a 24-hour clock and maybe you are having a challenge reading 
@@ -20,7 +21,7 @@ code you will be provided with the 24- hour time format
 
 ```
 
-## 2: Returning two positive numbers
+### 2: Returning two positive numbers
 
 ```
 This python program takes three integer arguments and returns 
@@ -29,7 +30,7 @@ false, depending on the user's inputs
 
 ```
 
-## 3: Returning the highest value of consonant strings
+### 3: Returning the highest value of consonant strings
 
 ```
 The program calculates the value of consecutive consonants substrings
