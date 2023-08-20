@@ -15,7 +15,6 @@ def value_of_consonant_substrings(s):
     
     return max(max_value, current_value)
 
-
 input_string = input("Enter a string : ") # prompts user to enter a string
 result = value_of_consonant_substrings(input_string)
 print(result)
