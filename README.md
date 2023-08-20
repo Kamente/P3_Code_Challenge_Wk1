@@ -38,7 +38,7 @@ consonant strings. The value of the consonant strings is calculated
 by converting each character to its corresponding numerical value.
 ```
 
-### How to run the code
+## How to run the code
 
 - Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1> to a local folder
 - Open the folder in the vscode
@@ -50,7 +50,7 @@ by converting each character to its corresponding numerical value.
 - ensure you have python3 installed to run the files
 - Interact with the code more, have fun
 
-### Technologies Used
+## Technologies Used
 
 ```
 - Python
@@ -58,7 +58,7 @@ by converting each character to its corresponding numerical value.
 - Github
 ```
 
-### License
+## License
 
 Copyright (c) 2023 Kamente Justin
 
