@@ -32,7 +32,10 @@ false, depending on the user's inputs
 ## 3: Returning the highest value of consonant strings
 
 ```
-
+The program calculates the value of consecutive consonants substrings
+in a given inputted string. It returns the highest value of the 
+consonant strings. The value of the consonant strings is calculated
+by converting each character to its corresponding numerical value.
 ```
 
 ### How to run the code
