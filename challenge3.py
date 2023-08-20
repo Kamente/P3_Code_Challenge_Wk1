@@ -1,5 +1,5 @@
 def is_consonant(char):
-    return char.isalpha() and char not in 'aeiou'
+    return char.isalpha() and char not in 'aeiou' # return that the string is a consonant character
 
 def value_of_consonant_substrings(s):
     max_value = 0
