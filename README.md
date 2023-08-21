@@ -39,7 +39,7 @@ consonant strings. The value of the consonant strings is calculated
 by converting each character to its corresponding numerical value.
 ```
 
-## COde set up and how to run the code
+## Code set up 
 
 - Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1> to a local folder
 - Open the folder in the vscode
