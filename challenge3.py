@@ -12,8 +12,8 @@ def value_of_consonant_substrings(s):
         else:
             max_value = max(max_value, current_value)
             current_value = 0
-    
-    return max(max_value, current_value)
+            
+    return max(max_value, current_value) # return the max value of the string
 
 input_string = input("Enter a string : ") # prompts user to enter a string
 result = value_of_consonant_substrings(input_string)
