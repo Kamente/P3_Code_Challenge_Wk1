@@ -4,7 +4,6 @@
 ## Author
 
 ```
-
 JUSTIN KAMENTE
 
 ```
@@ -56,7 +55,7 @@ by converting each character to its corresponding numerical value.
 ```
 - Python
 - VsCode
-- Github
+- Git and Github
 ```
 
 ## License
